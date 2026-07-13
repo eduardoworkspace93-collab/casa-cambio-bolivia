@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-casadecambioboli-fddefca3-5226-4549-b562-42997a040e1e",
+      "rules": "firestore.rules"
+    }
+  ]
+}

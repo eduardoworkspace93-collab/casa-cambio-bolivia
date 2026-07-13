@@ -1,0 +1,6 @@
+{
+  "name": "Casa de Cambio Bolivia",
+  "description": "Aplicación ultra-simple y rápida para registrar operaciones de compra y venta de dólares en Bolivia, diseñada para máxima facilidad de uso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
